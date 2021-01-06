@@ -1179,7 +1179,7 @@ form label.error {
 /*  Page Intro   ||-----------*/
 .inner-intro {
 	background-color: #f7f7f7;
-	height: 300px;
+	height: 500px;
 	display: block;
 	position: relative;
 	overflow: hidden;
@@ -1202,7 +1202,7 @@ figure {
 	margin: 0px;
 }
 .bg-img {
-	background: url(../images/bg_1.jpg) 0 36% no-repeat;
+	background: url(../images/banner/slider1.jpg) 0 36% no-repeat;
 	-webkit-background-size: cover;
 	background-size: cover;
 }
